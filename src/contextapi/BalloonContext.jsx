@@ -35,6 +35,7 @@ const BalloonContextProvider = ({ children }) => {
         setRecBalloon([...recBalloon, allBalloon[i]]);
       }
     }
+
     refreshAllBalloon(findit);
   };
   const refreshAllBalloon = (findit) => {
@@ -65,6 +66,7 @@ const BalloonContextProvider = ({ children }) => {
         handleChange,
         handleShoot,
         handleRecRemove,
+        num,
       }}
     >
       {children}

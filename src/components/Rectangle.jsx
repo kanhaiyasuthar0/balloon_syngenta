@@ -10,11 +10,11 @@ const Rectangle = () => {
       style={{
         height: "500px",
         width: "500px",
-        // border: `3px solid ${
-        //   recBalloon.length > 0
-        //     ? recBalloon[recBalloon.length - 1].color
-        //     : "blue"
-        // }`,
+        border: `3px solid ${
+          recBalloon.length > 0
+            ? recBalloon[recBalloon.length - 1].color
+            : "blue"
+        }`,
         display: "flex",
         borderRadius: "10px",
         justifyContent: "center",
