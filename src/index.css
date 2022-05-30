@@ -19,6 +19,7 @@ body {
   /* background-image: url(../public/Balloons.gif);
   background-repeat: no-repeat;
   background-position: bottom; */
+  background-size: cover;
 }
 
 code {

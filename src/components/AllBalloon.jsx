@@ -16,6 +16,7 @@ const AllBalloon = () => {
       }}
     >
       <div>
+        All Balloon{" "}
         {recBalloon.length > 0 ? (
           <BubbleChartIcon
             style={{
@@ -25,7 +26,6 @@ const AllBalloon = () => {
         ) : (
           <BubbleChartIcon></BubbleChartIcon>
         )}
-        All Balloon{" "}
         {recBalloon.length > 0 ? (
           <BubbleChartIcon
             style={{

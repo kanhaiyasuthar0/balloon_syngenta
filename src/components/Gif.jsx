@@ -5,6 +5,7 @@ const Gif = () => {
     <div
       style={{
         background: `url("./Balloons.gif")`,
+        fillStyle: "red",
         minHeight: "100px",
         height: "500px",
         // backgroundPosition: "cover",
