@@ -1,3 +1,9 @@
+<h1 align="center">Balloon Shoot Game</h1>
+<!-- <h3 align="center"></h3> -->
+<p align="center"><img style="width:300px; height:300px" src="https://i.ibb.co/sCLtHQN/Balloons-1.gif" alt="kanhaiyasuthar0" /> </p>
+<p align="center"> <img src="https://i.ibb.co/pnjb00b/Screenshot-2022-05-30-124701.png" alt="kanhaiyasuthar0" /> </p>
+
+<!-- https://i.ibb.co/pnjb00b/Screenshot-2022-05-30-124701.png -->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
